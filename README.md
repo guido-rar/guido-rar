@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Guido Gavilán
 
-<!--
-**guido-rar/guido-rar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mí
+Soy estudiante de Ingeniería en Informática en la UBA (en proceso de finalización del CBC). Me apasiona el desarrollo backend y la optimización de bases de datos. Tengo experiencia en **C#** y **MySQL**, y he trabajado en varios proyectos desarrollando aplicaciones funcionales y eficientes.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías y herramientas
+- 💻 Lenguajes: **C#, SQL, Python (básico)**
+- 🗄️ Bases de datos: **MySQL**
+- 🔧 Herramientas: **Git, Visual Studio, Unity**
+- 🌐 Desarrollo web: **HTML, CSS, PHP**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proyectos destacados
+- **[MarketWeight](#)**: Aplicación para compra/venta de criptomonedas con **C# y MySQL**.
+- **[CAsystem](#)**: Plataforma web para control de asistencia con **HTML, CSS y PHP**.
+- **[FiveMinutesGames](#)**: Mini juegos en **Unity y C#**.
+
+### 📫 Contacto
+📩 Email: guido.gavilanet12de1@gmail.com  
+🔗 LinkedIn: [Tu Perfil](#)  
+🐙 GitHub: [@TuUsuario](#)
+
+---
+⭐ ¡No dudes en explorar mis repositorios y colaborar en proyectos interesantes!
