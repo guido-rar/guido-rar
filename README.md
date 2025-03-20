@@ -16,8 +16,7 @@ Soy estudiante de Ingeniería en Informática en la UBA (en proceso de finalizac
 
 ### 📫 Contacto
 📩 Email: guido.gavilanet12de1@gmail.com  
-🔗 LinkedIn: [Tu Perfil](#)  
-🐙 GitHub: [@TuUsuario](#)
+🐙 GitHub: [@guido-rar](#)
 
 ---
 ⭐ ¡No dudes en explorar mis repositorios y colaborar en proyectos interesantes!
